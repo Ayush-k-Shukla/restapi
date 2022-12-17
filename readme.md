@@ -3,12 +3,16 @@
 1. ` npm install` to install all dependencies.
 2. `npm run dev` to locally run server
 
-### Testing the apis
+### Testing the apis (all are post requests)
 
 1. > register user `/api/v1/register`
+   >
 2. > login user `/api/v1/login `
+   >
 3. > verify the token ` /api/v1/verifytoken`
+   >
 4. > upload the file ` /api/v1/upload`
+   >
 
 ### Env file setup
 
